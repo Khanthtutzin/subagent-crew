@@ -1,0 +1,6 @@
+{
+  "name": "subagent-crew",
+  "description": "A Claude Code mod that shows running subagents as pixel Claude mascots above the prompt.",
+  "owner": { "name": "Khant Htut Zin" },
+  "plugins": [{ "name": "subagent-crew", "source": "./" }]
+}

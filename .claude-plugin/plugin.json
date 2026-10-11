@@ -1,0 +1,15 @@
+{
+  "name": "subagent-crew",
+  "version": "0.1.0",
+  "description": "Shows each running subagent as a pixel Claude mascot that wanders and hops above the prompt.",
+  "author": {
+    "name": "Khant Htut Zin",
+    "email": "146423796+Khanthtutzin@users.noreply.github.com",
+    "url": "https://github.com/Khanthtutzin"
+  },
+  "homepage": "https://github.com/Khanthtutzin/subagent-crew",
+  "repository": "https://github.com/Khanthtutzin/subagent-crew",
+  "license": "MIT",
+  "keywords": ["subagents", "mascot", "animation", "terminal", "mod"],
+  "types": "./types/index.d.ts"
+}
